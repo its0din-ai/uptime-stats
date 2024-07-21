@@ -76,19 +76,19 @@
     "url": "$ID_SRV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id-server",
-    "status": "down",
-    "uptime": "2.41%",
-    "uptimeDay": "2.41%",
-    "uptimeWeek": "2.41%",
-    "uptimeMonth": "2.41%",
-    "uptimeYear": "2.41%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2024-07-21": 0
+      "2024-07-21": 13
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "$JP_SRV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jp-server",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2024-07-21": 0
+      "2024-07-21": 13
     }
   }
 ]
