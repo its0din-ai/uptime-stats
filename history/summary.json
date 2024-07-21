@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1230,
-    "timeDay": 1230,
-    "timeWeek": 1230,
-    "timeMonth": 1230,
-    "timeYear": 1230,
+    "time": 701,
+    "timeDay": 701,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1020,
-    "timeDay": 1020,
-    "timeWeek": 1020,
-    "timeMonth": 1020,
-    "timeYear": 1020,
+    "time": 1118,
+    "timeDay": 1118,
+    "timeWeek": 1118,
+    "timeMonth": 1118,
+    "timeYear": 1118,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4717,
-    "timeDay": 4717,
-    "timeWeek": 4717,
-    "timeMonth": 4717,
-    "timeYear": 4717,
+    "time": 2443,
+    "timeDay": 2443,
+    "timeWeek": 2443,
+    "timeMonth": 2443,
+    "timeYear": 2443,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 417,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "time": 387,
+    "timeDay": 387,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id-server",
     "status": "up",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 231,
     "timeWeek": 231,
     "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2024-07-21": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JP Server",
@@ -97,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jp-server",
     "status": "up",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
-    "dailyMinutesDown": {
-      "2024-07-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
+    "dailyMinutesDown": {}
   }
 ]
