@@ -22,6 +22,7 @@ sites:
     check: "tcp-ping"
 
 status-website:
+  theme: light
   cname: status.encrypt0r.my.id
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: encrypt0r Infrastructure Status
