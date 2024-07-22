@@ -6,11 +6,11 @@ useragent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKi
 sites:
   - name: Main Sites
     url: https://encrypt0r.my.id
-  - name: ID Server
+  - name: ID Server [🇮🇩]
     url: $ID_SRV
     port: 4321
     check: "tcp-ping"
-  - name: JP Server
+  - name: JP Server [🇯🇵]
     url: $JP_SRV
     port: 4321
     check: "tcp-ping"
