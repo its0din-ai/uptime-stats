@@ -1,7 +1,7 @@
 # Change these first
 owner: its0din-ai # Your GitHub organization or username, where this repository lives
 repo: uptime-stats # The name of this repository
-useragent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.126 Mobile Safari/537.36 (compatible; encrypt0rbot/1.1; +https://encrypt0r.my.id/)"
+useragent: "encrypt0rBot/1.1; (+https://encrypt0r.my.id/)"
 
 sites:
   - name: Main Sites
