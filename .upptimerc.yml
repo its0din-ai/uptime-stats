@@ -8,10 +8,12 @@ sites:
     url: https://encrypt0r.my.id
   - name: ID Server [🇮🇩]
     url: $ID_SRV
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/125px-Flag_of_Indonesia.svg.png
     port: 4321
     check: "tcp-ping"
   - name: JP Server [🇯🇵]
     url: $JP_SRV
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png
     port: 4321
     check: "tcp-ping"
   - name: CyberChef
