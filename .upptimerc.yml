@@ -6,12 +6,6 @@ useragent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKi
 sites:
   - name: Main Sites
     url: https://encrypt0r.my.id
-  - name: CyberChef
-    url: https://chef.encrypt0r.my.id
-  - name: Blogs
-    url: https://blog.encrypt0r.my.id
-  - name: Ethereum Gateway
-    url: https://eth.encrypt0r.my.id
   - name: ID Server
     url: $ID_SRV
     port: 4321
@@ -20,6 +14,15 @@ sites:
     url: $JP_SRV
     port: 4321
     check: "tcp-ping"
+  - name: CyberChef
+    url: https://chef.encrypt0r.my.id
+  - name: Blogs
+    url: https://blog.encrypt0r.my.id
+  - name: Ethereum Gateway
+    url: https://eth.encrypt0r.my.id
+  - name: Microsoft Activation Scripts (MAS) Mirror
+    url: https://scripts.encrypt0r.my.id/mas
+    method: GET
 
 status-website:
   theme: light
