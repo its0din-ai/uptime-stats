@@ -58,9 +58,9 @@
     "url": "https://chef.encrypt0r.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/chef.encrypt0r.my.id.ico",
     "slug": "cyber-chef",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1118,
     "timeMonth": 1173,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-04": 0
+    }
   },
   {
     "name": "Blogs",
