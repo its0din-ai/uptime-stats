@@ -58,19 +58,19 @@
     "url": "https://chef.encrypt0r.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/chef.encrypt0r.my.id.ico",
     "slug": "cyber-chef",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1071,
-    "timeWeek": 1118,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1168,
+    "timeDay": 1061,
+    "timeWeek": 1110,
+    "timeMonth": 1168,
+    "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-08-04": 0
+      "2024-08-04": 17
     }
   },
   {
