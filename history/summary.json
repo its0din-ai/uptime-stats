@@ -22,9 +22,9 @@
     "url": "$ID_SRV",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/125px-Flag_of_Indonesia.svg.png",
     "slug": "id-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 233,
     "timeMonth": 229,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "JP Server [🇯🇵]",
@@ -58,18 +60,19 @@
     "url": "https://chef.encrypt0r.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/chef.encrypt0r.my.id.ico",
     "slug": "cyber-chef",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1142,
-    "timeDay": 1272,
-    "timeWeek": 1194,
-    "timeMonth": 1138,
-    "timeYear": 1142,
+    "time": 1175,
+    "timeDay": 2302,
+    "timeWeek": 1461,
+    "timeMonth": 1203,
+    "timeYear": 1175,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-09-08": 20,
       "2024-08-04": 17
     }
