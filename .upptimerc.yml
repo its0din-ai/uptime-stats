@@ -6,8 +6,13 @@ useragent: "encrypt0rBot/1.1; (+https://encrypt0r.my.id/)"
 sites:
   - name: Main Sites
     url: https://encrypt0r.my.id
-  - name: ID Server [🇮🇩]
+  - name: ID Arsenal-1 [🇮🇩]
     url: $ID_SRV
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/125px-Flag_of_Indonesia.svg.png
+    port: 4321
+    check: "tcp-ping"
+  - name: ID WAN [🇮🇩]
+    url: $ID_WAN
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/125px-Flag_of_Indonesia.svg.png
     port: 4321
     check: "tcp-ping"
