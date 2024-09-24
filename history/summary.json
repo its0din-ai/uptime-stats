@@ -58,9 +58,9 @@
     "url": "$JP_SRV",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
     "slug": "jp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 156,
     "timeMonth": 173,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   },
   {
     "name": "CyberChef",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chef.encrypt0r.my.id.ico",
     "slug": "cyber-chef",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.00%",
     "uptimeMonth": "95.04%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.67%",
     "time": 1183,
     "timeDay": 1106,
     "timeWeek": 1204,
