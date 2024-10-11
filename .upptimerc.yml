@@ -21,6 +21,8 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png
     port: 4321
     check: "tcp-ping"
+  - name: SysReptor
+    url: https://reporting.encrypt0r.my.id
   - name: CyberChef
     url: https://chef.encrypt0r.my.id
   - name: Blogs
